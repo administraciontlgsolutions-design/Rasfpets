@@ -25,6 +25,10 @@
   "ignorePatterns": [
     ".next/**",
     ".vinext/**",
+    ".agents/**",
+    ".gemini/**",
+    ".impeccable/**",
+    "components/ui/**",
     "out/**",
     "build/**",
     "dist/**",
